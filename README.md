@@ -42,4 +42,3 @@ ___________________________________________________________________
 
 **BEM:** [Sobre o BEM](https://desenvolvimentoparaweb.com/css/bem/)
 
-**TESTES EM AULA***
